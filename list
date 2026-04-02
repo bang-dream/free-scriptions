@@ -1,11 +1,11 @@
 ﻿# ChromeGo189 Node List
-# Updated: 2026-04-02 20:41:02
+# Updated: 2026-04-02 20:50:09
 # Total nodes: 4
 #
 # Format: v2rayN subscription
 # Supported: vmess, vless, ss, trojan
 
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E9%8A%86%E6%80%8ChromeGo189%E9%8A%86%3FNodeName
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%E9%8A%86%E6%80%8ChromeGo189%E9%8A%86%3FNodeName
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%E9%8A%86%E6%80%8ChromeGo189%E9%8A%86%3FNodeName
-vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E9%8A%86%E6%80%8ChromeGo189%E9%8A%86%3FNodeName
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo189%E3%80%91
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%E3%80%90ChromeGo189%E3%80%91
+trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%E3%80%90ChromeGo189%E3%80%91
+vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo189%E3%80%91
