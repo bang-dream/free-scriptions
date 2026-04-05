@@ -1,8 +1,8 @@
 ﻿# emzv2ray Node List
-# Updated: 2026-04-05 15:07:46
-# Valid nodes: 26
+# Updated: 2026-04-05 15:14:21
+# Valid: 26
 # Source: https://git.io/emzv2ray
-# Tested with Xray real connection
+# Tested with Xray + curl
 #
 
 vless://68c89f56-3a15-46f2-9901-8c00a2546b97@172.64.144.74:443?security=tls&fp=random&sni=rukawa.pages.dev&type=ws&host=rukawa.pages.dev&path=%2F%3Fed%3D2560#[emzv2ray] 🇺🇸_US_美国
