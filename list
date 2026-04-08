@@ -1,10 +1,11 @@
 ﻿# ChromeGo189 Node List
-# Updated: 2026-04-08 06:05:32
-# Total nodes: 3
+# Updated: 2026-04-09 06:05:20
+# Total nodes: 4
 #
 # Format: v2rayN subscription
 # Supported: vmess, vless, ss, trojan
 
 vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo189%E3%80%91DE_speednode_0005
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#%E3%80%90ChromeGo189%E3%80%91US_speednode_0047
 trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%E3%80%90ChromeGo189%E3%80%91NL_speednode_0029
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo189%E3%80%91DE_speednode_0006
