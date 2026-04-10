@@ -1,0 +1,49 @@
+I have the following addresses coming from different regions.
+
+💸 亚洲
+- ProxyIP.HK.CMLiussss.net | Check
+区域: 🇭🇰 香港 | 维护频率: 3小时/次
+- ProxyIP.SG.CMLiussss.net | Check
+区域: 🇸🇬 新加坡 | 维护频率: 3小时/次
+- ProxyIP.JP.CMLiussss.net | Check
+区域: 🇯🇵 日本 | 维护频率: 3小时/次
+- ProxyIP.KR.CMLiussss.net | Check
+区域: 🇰🇷 韩国 | 维护频率: 3小时/次
+- ProxyIP.IN.CMLiussss.net | Check
+区域: 🇮🇳 印度 | 维护频率: 3小时/次
+
+
+💸 欧洲
+- ProxyIP.GB.CMLiussss.net | Check
+区域: 🇬🇧 英国 | 维护频率: 3小时/次
+- ProxyIP.FR.CMLiussss.net | Check
+区域: 🇫🇷 法国 | 维护频率: 3小时/次
+- ProxyIP.DE.CMLiussss.net | Check
+区域: 🇩🇪 德国 | 维护频率: 3小时/次
+- ProxyIP.NL.CMLiussss.net | Check
+区域: 🇳🇱 荷兰 | 维护频率: 3小时/次
+- ProxyIP.SE.CMLiussss.net | Check
+区域: 🇸🇪 瑞典 | 维护频率: 3小时/次
+- ProxyIP.FI.CMLiussss.net | Check
+区域: 🇫🇮 芬兰 | 维护频率: 3小时/次
+- ProxyIP.PL.CMLiussss.net | Check
+区域: 🇵🇱 波兰 | 维护频率: 3小时/次
+- ProxyIP.RU.CMLiussss.net | Check
+区域: 🇷🇺 俄罗斯 | 维护频率: 3小时/次
+- ProxyIP.CH.CMLiussss.net | Check
+区域: 🇨🇭 瑞士 | 维护频率: 3小时/次
+- ProxyIP.LV.CMLiussss.net | Check
+区域: 🇱🇻 拉脫維亞 | 维护频率: 3小时/次
+
+
+💵 北美
+- ProxyIP.US.CMLiussss.net | Check
+区域: 🇺🇸 美国 | 维护频率: 3小时/次
+- ProxyIP.CA.CMLiussss.net | Check
+区域: 🇨🇦 加拿大 | 维护频率: 3小时/次
+
+
+For each region address, i want you to construct a new hysteria2 singbox node at my remote server, which outbounds all data to a trojan node (trojan://go@${ADDRESS}:443?security=tls&sni=freegate-tj.pages.dev&fp=random&type=ws&host=freegate-tj.pages.dev&path=%2F%3Fed%3D2560#TJ%E8%8A%82%E7%82%B9-YG-%E9%9C%80%E8%A6%81ProxyIP
+, where the ADDRESS is the address of that region). The singbox node should use tls, alpn=h3, skip the certification verification. Using port begin with 20001. After you added all nodes to the config, restart the singbox to make sure it valid. Then, list all nodes starts with hysteria2://, i would paste those string to my v2rayN. The alias name for each node should starts with 【47】, followed by a country's name and a flag.
+
+my remote machine is administrator@47.80.62.9, running windows, pwd is 
