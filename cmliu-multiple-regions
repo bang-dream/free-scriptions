@@ -43,7 +43,7 @@ I have the following addresses coming from different regions.
 区域: 🇨🇦 加拿大 | 维护频率: 3小时/次
 
 
-For each region address, i want you to construct a new hysteria2 singbox node at my remote server, which outbounds all data to a trojan node (trojan://go@${ADDRESS}:443?security=tls&sni=freegate-tj.pages.dev&fp=random&type=ws&host=freegate-tj.pages.dev&path=%2F%3Fed%3D2560#TJ%E8%8A%82%E7%82%B9-YG-%E9%9C%80%E8%A6%81ProxyIP
+For each region address, i want you to construct a new hysteria2 singbox node at my remote server, which outbounds all data to a trojan node (trojan://xray@${ADDRESS}:443?security=tls&sni=freegate-tj.pages.dev&fp=random&type=ws&host=freegate-tj.pages.dev&path=%2F%3Fed%3D2560#TJ%E8%8A%82%E7%82%B9-YG-%E9%9C%80%E8%A6%81ProxyIP
 , where the ADDRESS is the address of that region). The singbox node should use tls, alpn=h3, skip the certification verification. Using port begin with 20001. After you added all nodes to the config, restart the singbox to make sure it valid. Then, list all nodes starts with hysteria2://, i would paste those string to my v2rayN. The alias name for each node should starts with 【47】, followed by a country's name and a flag.
 
 my remote machine is administrator@47.80.62.9, running windows, pwd is 
