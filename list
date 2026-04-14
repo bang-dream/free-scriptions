@@ -1,11 +1,11 @@
-﻿# ChromeGo189 Node List (Enhanced)
+﻿# ChromeGo Node List
 # Updated: 
-2026-04-14 17:50:41
+2026-04-14 21:34:34
 # Total: 
-4
+3
+# Format: 銆怌hromeGo銆戣妭鐐?x-y (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
 
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#ChromeGo189-github.com%2FAlvin9999-newpac%2Ffanqiang
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#ChromeGo189-https%3A%2F%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang
-tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#ChromeGo189-github.com%2FAlvin9999-newpac%2Ffanqiang
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#ChromeGo189-US_speednode_0047
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E9%8A%86%E6%80%8ChromeGo%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F1-FR
+tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E9%8A%86%E6%80%8ChromeGo%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F2-FR
+tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E9%8A%86%E6%80%8ChromeGo%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F3-US
