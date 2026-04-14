@@ -1,68 +1,11 @@
 ﻿# ChromeGo Node List
 # Updated: 
-2026-04-14 21:41:23
+2026-04-14 21:44:41
 # Total: 
-60
+3
 # Format: 銆怌hromeGo銆戣妭鐐?x-y (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
 
 tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F1-%46%52
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F2-%44%45
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F3-%46%52
-tuic://6845cb43-4b8d-49e8-a011-1051d6c4d2ae:6845cb43-4b8d-49e8-a011-1051d6c4d2ae@157.254.223.48:11540?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F4-%55%53
-hysteria://2a14:7584:d097::a:54177?auth=dongtaiwang.com&up=11 Mbps&down=55 Mbps&sni=apple.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F5-%44%45
-tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F6-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@20.67.254.104:443?type=ws&security=tls&sni=snippet.chinat.eu.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F7-%49%45
-trojan://BxceQaOe@95.40.68.20:38692?sni=t.me%2Fripaojiedian#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F8-%48%4B
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:29370?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F9-%4A%50
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@218.157.158.21:11965?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F10-%4B%52
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.79.126.130:15018?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F11-%4B%52
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.76:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F12-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.152.61.147:11371?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F13-%4B%52
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F14-%54%48
-trojan://9f7d5cb76d1645101994d9b25891e3b7@43.207.198.5:21413?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F15-%4A%50
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.216:443?type=ws&security=tls&sni=snippet.fgfw.ndjp.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F16-%55%53
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:4674?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F17-%4A%50
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F18-%44%45
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F19-%55%53
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:34818?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F20-%4A%50
-vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F21-%47%42
-trojan://9f7d5cb76d1645101994d9b25891e3b7@52.195.170.179:34818?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F22-%4A%50
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@27.119.233.26:32768?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F23-%4B%52
-trojan://9f7d5cb76d1645101994d9b25891e3b7@52.195.170.179:29370?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F24-%4A%50
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.115:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F25-%55%53
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.152:10121?type=tcp&security=reality&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3&sni=apple.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F26-%53%45
-vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.144:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F27-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.131:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F28-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.49:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F29-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@203.168.131.110:3389?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F30-%48%4B
-trojan://BxceQaOe@13.231.153.129:5823?sni=t.me%2Fripaojiedian#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F31-%4A%50
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F32-%4E%4C
-vless://455fc271-3ee2-493b-8c75-9324b4851e2f@krp01.jumperservice.com:19001?type=tcp&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=addons.mozilla.org#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F33-%4B%52
-vless://43e322c8-e044-4625-a560-9bfec45e0eae@91.132.142.69:8443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F34-%46%49
-trojan://BxceQaOe@43.198.185.44:9211?sni=t.me%2Fripaojiedian#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F35-%48%4B
-vless://f25eb463-e242-4fa9-b174-c305af3ab95e@kinopl20.dramatorg.net:443?type=tcp&security=tls&sni=kinopl20.dramatorg.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F36-%58%58
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F37-%4E%4C
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.56:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F38-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.18:443?type=ws&security=tls&sni=snippet.danfeng.loc.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F39-%55%53
-vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.78:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F40-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.105.161.54:12345?type=ws&security=tls&sni=snippet.chinat.eu.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F41-%54%57
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?sni=www.nintendogames.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F42-%4A%50
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.134:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F43-%55%53
-trojan://BxceQaOe@13.231.153.129:3357?sni=t.me%252Fripaojiedian#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F44-%4A%50
-vless://d62ded27-cd76-4f67-b30a-3b2a3d656099@al.darknet.cv:443?type=tcp&security=reality&pbk=bIrjdFXa11enXVcWEvxVbSXwiNgUdatvw4Htn8xBxTw&sid=a1b323d4&sni=al.darknet.cv#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F45-%41%4C
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.230:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F46-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.188:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F47-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.161:443?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F48-%55%53
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.225:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F49-%55%53
-vless://43e322c8-e044-4625-a560-9bfec45e0eae@37.221.125.16:8443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F50-%47%42
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.199.169.221:50006?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F51-%4B%52
-vmess://eyJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwibmV0IjoidGNwIiwic25pIjoiIiwicG9ydCI6IjMwODA3IiwicGF0aCI6IiIsImFpZCI6IjIiLCJ2IjoiMiIsInBzIjoi6YqG5oCMaHJvbWVHb+mKhuaIo+WmremQkD81Mi1ISyJ9
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F53-%44%45
-vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F54-%44%45
-vless://542e9145-0ba4-4a0a-868a-0adce45a79ce@de02.kubservice.icu:443?type=tcp&security=reality&pbk=x8Uvr-IcUd8isTk2Av0QK5EmBTjxxbPHyoinm--FBFo&sni=www.apple.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F55-%44%45
-trojan://BxceQaOe@95.40.68.20:12070?sni=t.me%252Fripaojiedian#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F56-%48%4B
-vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@braskivo.ru:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F57-%55%53
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F58-%4E%4C
-vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?type=tcp&security=reality&pbk=FZbK0E3QBK7QslwVEXimX6vmXC8cb6826lSLJUkIEgU&sni=max.ru#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F59-%52%55
-vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&sni=greenpepper.ir#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F60-%54%52
+tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F2-%46%52
+tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F3-%55%53
