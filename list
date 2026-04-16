@@ -1,6 +1,6 @@
 ﻿# ChromeGo Node List
 # Updated: 
-2026-04-16 10:53:12
+2026-04-16 11:22:56
 # Total: 
 60
 # Format: 【ChromeGo】number-country (x=serial, y=country)
@@ -24,7 +24,7 @@ trojan://9f7d5cb76d1645101994d9b25891e3b7@43.207.198.5:21413?sni=www.nintendogam
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.216:443?type=ws&security=tls&sni=snippet.fgfw.ndjp.net#%E3%80%90ChromeGo%E3%80%9116-US
 trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:4674?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9117-JP
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#%E3%80%90ChromeGo%E3%80%9118-DE
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9119-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9119-XX
 trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:34818?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9120-JP
 vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com#%E3%80%90ChromeGo%E3%80%9121-GB
 trojan://9f7d5cb76d1645101994d9b25891e3b7@52.195.170.179:34818?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9122-JP
