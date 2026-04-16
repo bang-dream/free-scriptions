@@ -1,12 +1,68 @@
 ﻿# ChromeGo Node List
 # Updated: 
-2026-04-16 06:07:27
+2026-04-16 10:53:12
 # Total: 
-4
-# Format: 銆怌hromeGo銆戣妭鐐?x-y (x=serial, y=country)
+60
+# Format: 【ChromeGo】number-country (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
 
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F1-%46%52
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F2-%46%52
-tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F3-%55%53
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#%E9%8A%86%E6%80%8C%68%72%6F%6D%65%47%6F%E9%8A%86%E6%88%A3%E5%A6%AD%E9%90%90%3F4-%54%48
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%911-FR
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%E3%80%90ChromeGo%E3%80%912-DE
+tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%913-FR
+tuic://6845cb43-4b8d-49e8-a011-1051d6c4d2ae:6845cb43-4b8d-49e8-a011-1051d6c4d2ae@157.254.223.48:11540?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%914-US
+hysteria://2a14:7584:d097::a:54177?auth=dongtaiwang.com&up=11 Mbps&down=55 Mbps&sni=apple.com#%E3%80%90ChromeGo%E3%80%915-DE
+tuic://2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15:2aec7bfd-4178-4ee5-9bc5-fe4c241fdc15@157.254.223.24:41122?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%916-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@20.67.254.104:443?type=ws&security=tls&sni=snippet.chinat.eu.cc#%E3%80%90ChromeGo%E3%80%917-IE
+trojan://BxceQaOe@95.40.68.20:38692?sni=t.me%2Fripaojiedian#%E3%80%90ChromeGo%E3%80%918-HK
+trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:29370?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%919-JP
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@218.157.158.21:11965?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9110-KR
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.79.126.130:15018?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E3%80%90ChromeGo%E3%80%9111-KR
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.76:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9112-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.152.61.147:11371?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E3%80%90ChromeGo%E3%80%9113-KR
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#%E3%80%90ChromeGo%E3%80%9114-TH
+trojan://9f7d5cb76d1645101994d9b25891e3b7@43.207.198.5:21413?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9115-JP
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.216:443?type=ws&security=tls&sni=snippet.fgfw.ndjp.net#%E3%80%90ChromeGo%E3%80%9116-US
+trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:4674?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9117-JP
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#%E3%80%90ChromeGo%E3%80%9118-DE
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9119-US
+trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:34818?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9120-JP
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com#%E3%80%90ChromeGo%E3%80%9121-GB
+trojan://9f7d5cb76d1645101994d9b25891e3b7@52.195.170.179:34818?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9122-JP
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@27.119.233.26:32768?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E3%80%90ChromeGo%E3%80%9123-KR
+trojan://9f7d5cb76d1645101994d9b25891e3b7@52.195.170.179:29370?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9124-JP
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.115:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9125-US
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.152:10121?type=tcp&security=reality&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3&sni=apple.com#%E3%80%90ChromeGo%E3%80%9126-SE
+vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.144:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E3%80%90ChromeGo%E3%80%9127-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.131:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9128-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.49:443?type=ws&security=tls&sni=snippet.danfeng.theworkpc.com#%E3%80%90ChromeGo%E3%80%9129-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@203.168.131.110:3389?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E3%80%90ChromeGo%E3%80%9130-HK
+trojan://BxceQaOe@13.231.153.129:5823?sni=t.me%2Fripaojiedian#%E3%80%90ChromeGo%E3%80%9131-JP
+trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%E3%80%90ChromeGo%E3%80%9132-NL
+vless://455fc271-3ee2-493b-8c75-9324b4851e2f@krp01.jumperservice.com:19001?type=tcp&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=addons.mozilla.org#%E3%80%90ChromeGo%E3%80%9133-KR
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@91.132.142.69:8443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%E3%80%90ChromeGo%E3%80%9134-FI
+trojan://BxceQaOe@43.198.185.44:9211?sni=t.me%2Fripaojiedian#%E3%80%90ChromeGo%E3%80%9135-HK
+vless://f25eb463-e242-4fa9-b174-c305af3ab95e@kinopl20.dramatorg.net:443?type=tcp&security=tls&sni=kinopl20.dramatorg.net#%E3%80%90ChromeGo%E3%80%9136-XX
+trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%E3%80%90ChromeGo%E3%80%9137-NL
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.56:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9138-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.18:443?type=ws&security=tls&sni=snippet.danfeng.loc.cc#%E3%80%90ChromeGo%E3%80%9139-US
+vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.78:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E3%80%90ChromeGo%E3%80%9140-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.105.161.54:12345?type=ws&security=tls&sni=snippet.chinat.eu.cc#%E3%80%90ChromeGo%E3%80%9141-TW
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?sni=www.nintendogames.net#%E3%80%90ChromeGo%E3%80%9142-JP
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.134:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9143-US
+trojan://BxceQaOe@13.231.153.129:3357?sni=t.me%252Fripaojiedian#%E3%80%90ChromeGo%E3%80%9144-JP
+vless://d62ded27-cd76-4f67-b30a-3b2a3d656099@al.darknet.cv:443?type=tcp&security=reality&pbk=bIrjdFXa11enXVcWEvxVbSXwiNgUdatvw4Htn8xBxTw&sid=a1b323d4&sni=al.darknet.cv#%E3%80%90ChromeGo%E3%80%9145-AL
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.230:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9146-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.188:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9147-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.161:443?type=ws&security=tls&sni=snippet.chinav.eu.cc#%E3%80%90ChromeGo%E3%80%9148-US
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.225:443?type=ws&security=tls&sni=snippet.danfeng.kozow.com#%E3%80%90ChromeGo%E3%80%9149-US
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@37.221.125.16:8443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%E3%80%90ChromeGo%E3%80%9150-GB
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.199.169.221:50006?type=ws&security=tls&sni=snippet.fgfw.de5.net#%E3%80%90ChromeGo%E3%80%9151-KR
+vmess://eyJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwibmV0IjoidGNwIiwic25pIjoiIiwicG9ydCI6IjMwODA3IiwicGF0aCI6IiIsImFpZCI6IjIiLCJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE1Mi1ISyJ9
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo%E3%80%9153-DE
+vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?type=ws&security=tls&sni=sub.mot.ip-ddns.com#%E3%80%90ChromeGo%E3%80%9154-DE
+vless://542e9145-0ba4-4a0a-868a-0adce45a79ce@de02.kubservice.icu:443?type=tcp&security=reality&pbk=x8Uvr-IcUd8isTk2Av0QK5EmBTjxxbPHyoinm--FBFo&sni=www.apple.com#%E3%80%90ChromeGo%E3%80%9155-DE
+trojan://BxceQaOe@95.40.68.20:12070?sni=t.me%252Fripaojiedian#%E3%80%90ChromeGo%E3%80%9156-HK
+vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@braskivo.ru:8443?type=tcp&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&sni=rbc.ru#%E3%80%90ChromeGo%E3%80%9157-US
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#%E3%80%90ChromeGo%E3%80%9158-NL
+vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?type=tcp&security=reality&pbk=FZbK0E3QBK7QslwVEXimX6vmXC8cb6826lSLJUkIEgU&sni=max.ru#%E3%80%90ChromeGo%E3%80%9159-RU
+vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&sni=greenpepper.ir#%E3%80%90ChromeGo%E3%80%9160-TR
