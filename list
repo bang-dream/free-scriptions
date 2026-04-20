@@ -1,11 +1,12 @@
 ﻿# ChromeGo Node List
-# Updated: 2026-04-20 06:05:31
-# Total: 5
+# Updated: 2026-04-21 06:06:26
+# Total: 6
 # Format: 【ChromeGo】number-country (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
 
-tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%911-FR
-tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%912-DE
-tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%913-FR
+tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%911-DE
+tuic://9adb384a-0f16-4501-a8f3-b6b2556fce87:dongtaiwang.com@163.172.116.154:33887?congestion_controller=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%912-FR
+tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?congestion_controller=bbr&alpn=h3&sni=apple.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%913-FR
 tuic://b35b50d1-7830-4a68-94db-349c2d2f8e43:b35b50d1-7830-4a68-94db-349c2d2f8e43@178.18.147.199:42487?congestion_controller=bbr&alpn=h3&sni=www.microsoft.com&udp_relay_mode=native#%E3%80%90ChromeGo%E3%80%914-DE
-vless://73c0a723-c0ab-4ad8-8f25-799b9bd54e36@216.57.105.74:443?type=tcp&security=reality&pbk=A1OvYDljz8ZJr7_1xe4j2H1AHsMuYEKifyjdWhdybzk&sid=11e2&sni=yahoo.com#%E3%80%90ChromeGo%E3%80%915-NL
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.217.49.16:443?type=tcp&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=wwwimages2.adobe.com#%E3%80%90ChromeGo%E3%80%915-HK
+vless://73c0a723-c0ab-4ad8-8f25-799b9bd54e36@216.57.105.74:443?type=tcp&security=reality&pbk=A1OvYDljz8ZJr7_1xe4j2H1AHsMuYEKifyjdWhdybzk&sid=11e2&sni=yahoo.com#%E3%80%90ChromeGo%E3%80%916-NL
