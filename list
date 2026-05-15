@@ -1,34 +1,24 @@
 # ChromeGo Node List
-# Updated: 2026-05-15 04:12:26
-# Total: 29
+# Updated: 2026-05-16 04:32:17
+# Total: 19
 # Format: 【ChromeGo】number-country (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.64.246.165:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%911-HK
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@34.180.125.14:443?type=ws&security=tls&sni=gogo.vks.dpdns.org#%E3%80%90ChromeGo%E3%80%912-JP
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.239.231.121:443?type=ws&security=tls&sni=gogo5.kmj.qzz.io#%E3%80%90ChromeGo%E3%80%913-HK
-vless://b818576e-951a-4a9c-879a-d32611b977ad@104.26.8.201:2083?type=ws&security=tls&sni=cocobaby.pages.dev#%E3%80%90ChromeGo%E3%80%914-CA
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE1LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE2LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.38.113:443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%917-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.38.182:8443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%918-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.22.94.220:38395?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%919-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.82:42807?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9110-SG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.123.86.198:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9111-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.79.9.247:19222?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9112-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.111.88.109:32773?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9113-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.104.226.216:12000?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9114-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.113.237.204:11371?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9115-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.86.228.109:32603?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9116-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.124.181.251:12300?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9117-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.168.16.112:443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9118-HK
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.84.95.77:443?type=ws&security=tls&sni=gogo.wknm.dpdns.org#%E3%80%90ChromeGo%E3%80%9119-SG
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@68.64.182.39:443?type=ws&security=tls&sni=gogo.wknm.dpdns.org#%E3%80%90ChromeGo%E3%80%9120-HK
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@119.246.150.50:443?type=ws&security=tls&sni=gogo.wknm.dpdns.org#%E3%80%90ChromeGo%E3%80%9121-HK
-vless://b818576e-951a-4a9c-879a-d32611b977ad@173.245.59.39:2053?type=ws&security=tls&sni=cocobaby.pages.dev#%E3%80%90ChromeGo%E3%80%9122-CA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.124.181.77:18081?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9123-KR
-vless://b818576e-951a-4a9c-879a-d32611b977ad@8.39.125.169:8443?type=ws&security=tls&sni=cocobaby.pages.dev#%E3%80%90ChromeGo%E3%80%9124-US
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.120:443?type=ws&security=tls&sni=pagescm.freen29.cc.cd#%E3%80%90ChromeGo%E3%80%9125-CA
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@96.126.130.217:443?type=ws&security=tls&sni=gogo5.kmj.qzz.io#%E3%80%90ChromeGo%E3%80%9126-US
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.122.102.26:30017?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9127-KR
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?type=ws&security=tls&sni=gogo3.kmj.qzz.io#%E3%80%90ChromeGo%E3%80%9128-TW
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.244.124:443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9129-SG
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?type=ws&security=tls&sni=juzi.qea.ccwu.cc#%E3%80%90ChromeGo%E3%80%911-CA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.29.120:443?type=ws&security=tls&sni=sni.latonyamadeline.ndjp.net#%E3%80%90ChromeGo%E3%80%912-CA
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEzLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE0LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.38.182:8443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%915-HK
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.64.246.165:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%916-HK
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.47.108.176:51102?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%917-JP
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.82:42807?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%918-SG
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.123.86.198:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%919-KR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.79.9.247:19222?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9110-KR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.121.232.215:22335?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9111-KR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.113.237.204:11371?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9112-KR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.32.205.160:10035?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9113-KR
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9114-SG
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@70.39.206.127:21505?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9115-HK
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJExNi1VUyIsImFkZCI6IjgyLjE5OC4yNDYuOSIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.122.102.26:30017?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9117-KR
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJExOC1VUyIsImFkZCI6IjgyLjE5OC4yNDYuMjE0IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vless://b818576e-951a-4a9c-879a-d32611b977ad@104.18.42.159:2096?type=ws&security=tls&sni=cocobaby.pages.dev#%E3%80%90ChromeGo%E3%80%9119-CA
