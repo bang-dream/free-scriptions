@@ -1,24 +1,15 @@
 # ChromeGo Node List
-# Updated: 2026-05-16 04:32:17
-# Total: 19
+# Updated: 2026-05-17 04:05:31
+# Total: 10
 # Format: 【ChromeGo】number-country (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.55:443?type=ws&security=tls&sni=juzi.qea.ccwu.cc#%E3%80%90ChromeGo%E3%80%911-CA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.29.120:443?type=ws&security=tls&sni=sni.latonyamadeline.ndjp.net#%E3%80%90ChromeGo%E3%80%912-CA
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEzLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE0LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.38.182:8443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%915-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.64.246.165:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%916-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.47.108.176:51102?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%917-JP
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.82:42807?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%918-SG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.123.86.198:27015?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%919-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.79.9.247:19222?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9110-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.121.232.215:22335?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9111-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.113.237.204:11371?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9112-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.32.205.160:10035?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9113-KR
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9114-SG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@70.39.206.127:21505?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9115-HK
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJExNi1VUyIsImFkZCI6IjgyLjE5OC4yNDYuOSIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.122.102.26:30017?type=ws&security=tls&sni=sni.111000.dns.army#%E3%80%90ChromeGo%E3%80%9117-KR
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJExOC1VUyIsImFkZCI6IjgyLjE5OC4yNDYuMjE0IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-vless://b818576e-951a-4a9c-879a-d32611b977ad@104.18.42.159:2096?type=ws&security=tls&sni=cocobaby.pages.dev#%E3%80%90ChromeGo%E3%80%9119-CA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.146.3:54516?type=ws&security=tls&sni=sni.jpmj.dev#%E3%80%90ChromeGo%E3%80%911-JP
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEyLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEzLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?type=tcp&security=reality&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU&sid=303a58f57b0d&sni=aws.amazon.com#%E3%80%90ChromeGo%E3%80%914-HK
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.46.67:443?type=ws&security=tls&sni=sni.111000.indevs.in#%E3%80%90ChromeGo%E3%80%915-JP
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE2LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4zNyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%E3%80%90ChromeGo%E3%80%917-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%E3%80%90ChromeGo%E3%80%918-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%E3%80%90ChromeGo%E3%80%919-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%E3%80%90ChromeGo%E3%80%9110-NL
