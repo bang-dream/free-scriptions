@@ -1,15 +1,23 @@
 # ChromeGo Node List
-# Updated: 2026-05-17 04:05:31
-# Total: 10
+# Updated: 2026-05-18 04:08:13
+# Total: 18
 # Format: 【ChromeGo】number-country (x=serial, y=country)
 # Protocols: vmess, vless, ss, trojan, hysteria2, hysteria, tuic
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.146.3:54516?type=ws&security=tls&sni=sni.jpmj.dev#%E3%80%90ChromeGo%E3%80%911-JP
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEyLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEzLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?type=tcp&security=reality&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU&sid=303a58f57b0d&sni=aws.amazon.com#%E3%80%90ChromeGo%E3%80%914-HK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.46.67:443?type=ws&security=tls&sni=sni.111000.indevs.in#%E3%80%90ChromeGo%E3%80%915-JP
-vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE2LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4zNyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%E3%80%90ChromeGo%E3%80%917-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%E3%80%90ChromeGo%E3%80%918-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%E3%80%90ChromeGo%E3%80%919-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%E3%80%90ChromeGo%E3%80%9110-NL
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&sni=1-aym.pages.dev#%E3%80%90ChromeGo%E3%80%911-SG
+vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?type=ws&security=tls&sni=juzi.qea.ccwu.cc#%E3%80%90ChromeGo%E3%80%912-CA
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJEzLVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE0LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE1LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4zNyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE2LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni45IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi44CQQ2hyb21lR2/jgJE3LVVTIiwiYWRkIjoiODIuMTk4LjI0Ni4yMTQiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwic25pIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#%E3%80%90ChromeGo%E3%80%918-TW
+vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?type=tcp&security=reality&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU&sid=303a58f57b0d&sni=aws.amazon.com#%E3%80%90ChromeGo%E3%80%919-HK
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?type=ws&security=tls&sni=1-jk1.pages.dev#%E3%80%90ChromeGo%E3%80%9110-JP
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@141.98.197.157:21169?type=ws&security=tls&sni=2026.hhhhh.eu.org#%E3%80%90ChromeGo%E3%80%9111-JP
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.20.213:2053?type=ws&security=tls&sni=sni.111000.dynv6.net#%E3%80%90ChromeGo%E3%80%9112-CA
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.173.68:2053?type=ws&security=tls&sni=hio-awx.pages.dev#%E3%80%90ChromeGo%E3%80%9113-CA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.82.160.100:443?type=ws&security=tls&sni=sni.111000.v6.army#%E3%80%90ChromeGo%E3%80%9114-SG
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:2053?type=ws&security=tls&sni=sni.111000.indevs.in#%E3%80%90ChromeGo%E3%80%9115-CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%E3%80%90ChromeGo%E3%80%9116-NL
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@162.159.61.135:443?type=ws&security=tls&sni=gddy.hhlfy.de5.net#%E3%80%90ChromeGo%E3%80%9117-CA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?type=ws&security=tls&sni=sni.my111000.tech#%E3%80%90ChromeGo%E3%80%9118-US
